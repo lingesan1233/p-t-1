@@ -1,7 +1,7 @@
 {
 	"name": "chat-app-yt",
 	"version": "1.0.0",
-	"description": "",
+	"description": "- **🌟 Modern Tech Stack**: MERN (MongoDB, Express, React, Node.js) + Socket.io + TailwindCSS + Daisy UI.  \r - **🎃 Secure Authentication & Authorization**: Powered by JSON Web Tokens (JWT).  \r - **👾 Real-Time Messaging**: Instant chat functionality using Socket.io.  \r - **🚀 Online User Status**: Live status updates with Socket.io and React Context API.  \r - **👌 Global State Management**: Simplified state handling with Zustand.  \r - **🐞 Robust Error Handling**: Seamless error management on both client and server.  \r - **⭐ Free Deployment**: Learn how to deploy like a pro at no cost!  \r - **⏳ And More!**: Packed with additional features to enhance user experience.",
 	"main": "server.js",
 	"scripts": {
 		"server": "nodemon backend/server.js",
@@ -23,5 +23,13 @@
 	},
 	"devDependencies": {
 		"nodemon": "^3.0.3"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lingesan1233/p-t-1.git"
+	},
+	"bugs": {
+		"url": "https://github.com/lingesan1233/p-t-1/issues"
+	},
+	"homepage": "https://github.com/lingesan1233/p-t-1#readme"
 }
